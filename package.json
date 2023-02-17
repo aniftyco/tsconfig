@@ -1,0 +1,37 @@
+{
+  "name": "@aniftyco/tsconfig",
+  "version": "0.0.0",
+  "description": "Shared TypeScript config for NiftyCo projects",
+  "license": "MIT",
+  "repository": "aniftyco/tsconfig",
+  "main": "tsconfig.json",
+  "author": {
+    "name": "Nifty Development, LLC",
+    "url": "https://aniftyco.com"
+  },
+  "contributors": [
+    {
+      "name": "Josh Manders",
+      "email": "josh@aniftyco.com"
+    }
+  ],
+  "engines": {
+    "npm": ">=v8.15.0",
+    "node": ">=16.17.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "config",
+    "configuration",
+    "aniftyco",
+    "niftyco"
+  ]
+}
