@@ -19,7 +19,8 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "noImplicitAny": false,
-    "sourceMap": true
+    "sourceMap": true,
+    "strictPropertyInitialization": false
   },
   "include": ["**/*.ts"],
   "exclude": ["node_modules"]
